@@ -53,3 +53,4 @@ dkms.conf
 
 # Ignorar o arquivo de teste
 /unity/
+/Unity-master/
