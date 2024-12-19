@@ -1,5 +1,6 @@
 //Para compilar use:
-//gcc -o test_program test_program.c unity/unity.c -Iunity
+//gcc -o testePrograma testePrograma.c estruturas.c Unity-master/src/unity.c -IUnity-master/src
+//o arquivo unity.c deverá estar corretamente nesse tipo de estrutura
 #include "./Unity-master/src/unity.h"
 #include <stdio.h>
 #include "./estruturas.h"
