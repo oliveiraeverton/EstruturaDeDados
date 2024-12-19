@@ -11,7 +11,6 @@ void menu(){
     printf("4 - Lista duplamente encadeada e ordenada\n");
 }
 
-
 void opcaoListaEncadeada(int* opcao){
     scanf("%d", opcao);
     // observação não pe necessário passar &opcao porque opcao já é um endereco de memória
